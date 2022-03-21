@@ -5,5 +5,5 @@ Technologies used:
 |-----------|------------------|
 |Langugae   |Java              |
 |Database   |PostgreSQL        |
-|Front-End  |HTML,CSS,JS       |
+|Front-End  |Thymeleaf, JS     |
 |CRUD       |AJAX,Spring JPA   |
